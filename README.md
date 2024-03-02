@@ -48,4 +48,4 @@ http://127.0.0.1:8000/api/redoc/
 [Sergey Chukin](https://github.com/ChukSerg)
 
 ### CI/CD pipeline status
-[![Ambassadors CRM workflow](https://github.com/Ivanmatv/backend_CRM/actions/workflows/crm_workflow.yml/badge.svg)](https://github.com/Ivanmatv/backend_CRM/actions/workflows/crm_workflow.yml)
+[![ambassadors_crm workflow](https://github.com/Evgeniy-Golodnykh/ambassadors_crm/actions/workflows/crm_workflow.yml/badge.svg)](https://github.com/Evgeniy-Golodnykh/ambassadors_crm/actions/workflows/crm_workflow.yml)
