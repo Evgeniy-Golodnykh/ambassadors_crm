@@ -26,7 +26,7 @@ SECRET_KEY = 'gq)4ibriru7$9!d2kl$ts+j@eqp=8km+2t99vr!sge+3$--3+p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*', '127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', '185.23.236.21', '*']
 
 
 # Application definition
@@ -142,7 +142,7 @@ CORS_URLS_REGEX = r'^/api/.*$'
 
 CORS_ALLOWED_ORIGINS = [
     'http://185.23.236.21',
-    'http://localhost:3030',
+    'http://localhost',
 ]
 
 
