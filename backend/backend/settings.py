@@ -140,10 +140,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 CORS_URLS_REGEX = r'^/api/.*$'
 
-CORS_ALLOWED_ORIGINS = [
-    'http://185.23.236.21',
-    'http://localhost',
-]
+CORS_ALLOW_ALL_ORIGINS = True
 
 
 # Default primary key field type
